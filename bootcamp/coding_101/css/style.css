@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch:400,700|Merriweather:400,700i');
+body {
+  background-color: white;
+  color: black;
+  font-family: "Merriweather", sans-serif;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration-line: underline;
+  font-family: "Chakra Petch", sans-serif;
+
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  margin-left: 20px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.foods {
+  color: purple;
+}
+
+li {
+  display: inline-block;
+  margin: 30px;
+}
+
+li:hover {
+  background-color: black;
+}
